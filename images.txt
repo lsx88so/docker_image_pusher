@@ -1,4 +1,6 @@
-cgycms/websql
+mysql:5.7
+mariadb
+#cgycms/websql
 #nginx
 #frooodle/s-pdf
 #xhofe/alist
