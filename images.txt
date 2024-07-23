@@ -1,5 +1,8 @@
-mysql:5.7
-mariadb
+dbeaver/cloudbeaver-ee
+dbeaver/cloudbeaver-aws
+dbeaver/cloudbeaver
+#mysql:5.7
+#mariadb
 #cgycms/websql
 #nginx
 #frooodle/s-pdf
