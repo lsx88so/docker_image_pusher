@@ -1,6 +1,7 @@
-ghcr.io/requarks/wiki:2
-axboy/leanote
-nriver/trilium-cn
+postgres:15-alpine
+#ghcr.io/requarks/wiki:2
+#axboy/leanote
+#nriver/trilium-cn
 #dbeaver/cloudbeaver-ee
 #dbeaver/cloudbeaver-aws
 #dbeaver/cloudbeaver
