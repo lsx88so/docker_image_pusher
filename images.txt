@@ -1,6 +1,9 @@
-dbeaver/cloudbeaver-ee
-dbeaver/cloudbeaver-aws
-dbeaver/cloudbeaver
+ghcr.io/requarks/wiki:2
+axboy/leanote
+nriver/trilium-cn
+#dbeaver/cloudbeaver-ee
+#dbeaver/cloudbeaver-aws
+#dbeaver/cloudbeaver
 #mysql:5.7
 #mariadb
 #cgycms/websql
