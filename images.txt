@@ -1,6 +1,6 @@
-elasticsearch/elasticsearch:8.15.0
-elasticsearch/elasticsearch:6.8.23
-elasticsearch/elasticsearch:7.17.23
+elasticsearch:8.15.0
+elasticsearch:6.8.23
+elasticsearch:7.17.23
 neosmemo/memos
 jasminexzzz/blossom
 mysql:8.0.31
