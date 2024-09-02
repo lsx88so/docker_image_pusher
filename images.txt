@@ -1,4 +1,12 @@
-postgres:15-alpine
+docker.elastic.co/elasticsearch/elasticsearch
+docker.elastic.co/elasticsearch/elasticsearch:6.8.10
+docker.elastic.co/elasticsearch/elasticsearch:7.10.1
+neosmemo/memos
+jasminexzzz/blossom
+mysql:8.0.31
+joplin/server
+wiznote/wizserver
+#postgres:15-alpine
 #ghcr.io/requarks/wiki:2
 #axboy/leanote
 #nriver/trilium-cn
