@@ -1,6 +1,6 @@
-docker.elastic.co/elasticsearch/elasticsearch
-docker.elastic.co/elasticsearch/elasticsearch:6.8.10
-docker.elastic.co/elasticsearch/elasticsearch:7.10.1
+elasticsearch/elasticsearch:8.15.0
+elasticsearch/elasticsearch:6.8.23
+elasticsearch/elasticsearch:7.17.23
 neosmemo/memos
 jasminexzzz/blossom
 mysql:8.0.31
