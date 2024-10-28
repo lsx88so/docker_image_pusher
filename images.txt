@@ -1,4 +1,4 @@
-abcfy2/zhparser:alpine
+#abcfy2/zhparser:alpine
 #abcfy2/zhparser
 #abcfy2/zhparser:15-alpine
 #elasticsearch:8.15.0
@@ -20,7 +20,7 @@ abcfy2/zhparser:alpine
 #mariadb
 #cgycms/websql
 #nginx
-#frooodle/s-pdf
+frooodle/s-pdf
 #xhofe/alist
 #corentinth/it-tools
 #docker.io/songxwn/netbox-cn-docker:4.0.3-2.9.9
