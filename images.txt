@@ -15,12 +15,12 @@
 #nriver/trilium-cn
 #dbeaver/cloudbeaver-ee
 #dbeaver/cloudbeaver-aws
-#dbeaver/cloudbeaver
+dbeaver/cloudbeaver
 #mysql:5.7
 #mariadb
 #cgycms/websql
 #nginx
-frooodle/s-pdf
+#frooodle/s-pdf
 #xhofe/alist
 #corentinth/it-tools
 #docker.io/songxwn/netbox-cn-docker:4.0.3-2.9.9
