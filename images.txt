@@ -2,14 +2,7 @@
 #wiznote/wizserver
 #frooodle/s-pdf
 #xhofe/alist
-
-safeline-pg
-safeline-mgt
-safeline-detector
-safeline-tengine
-safeline-luigi
-safeline-fvm
-safeline-chaos
+b3log/siyuan
 
 #abcfy2/zhparser:alpine
 #abcfy2/zhparser
