@@ -4,9 +4,9 @@
 # 重名的需要两个一起，要不会覆盖
 #xhofe/alist
 #xiaoyaliu/alist
-# firefox为jlesage/firefox库
-jlesage/firefox
-#lscr.io/linuxserver/firefox
+# firefox为lscr.io/linuxserver/firefox
+#jlesage/firefox
+lscr.io/linuxserver/firefox
 
 #frooodle/s-pdf
 #b3log/siyuan
