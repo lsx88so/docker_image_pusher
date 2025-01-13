@@ -1,16 +1,18 @@
 #gdy666/lucky
 #wiznote/wizserver
+
+# 重名的需要两个一起，要不会覆盖
+#xhofe/alist
+#xiaoyaliu/alist
+# firefox为jlesage/firefox库
+jlesage/firefox
+#lscr.io/linuxserver/firefox
+
 #frooodle/s-pdf
-
-xhofe/alist
-xiaoyaliu/alist
-
 #b3log/siyuan
 
-jlesage/firefox
-lscr.io/linuxserver/firefox
-lscr.io/linuxserver/chromium
-lscr.io/linuxserver/msedge
+#lscr.io/linuxserver/chromium
+#lscr.io/linuxserver/msedge
 
 #abcfy2/zhparser:alpine
 #abcfy2/zhparser
