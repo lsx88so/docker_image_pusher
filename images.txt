@@ -2,7 +2,15 @@
 #wiznote/wizserver
 #frooodle/s-pdf
 #xhofe/alist
-b3log/siyuan
+xiaoyaliu/alist
+
+#b3log/siyuan
+
+firefox
+jlesage/firefox
+lscr.io/linuxserver/firefox
+lscr.io/linuxserver/chromium
+lscr.io/linuxserver/msedge
 
 #abcfy2/zhparser:alpine
 #abcfy2/zhparser
