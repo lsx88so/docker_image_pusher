@@ -1,12 +1,12 @@
 #gdy666/lucky
 #wiznote/wizserver
 #frooodle/s-pdf
-#xhofe/alist
+
+xhofe/alist
 xiaoyaliu/alist
 
 #b3log/siyuan
 
-firefox
 jlesage/firefox
 lscr.io/linuxserver/firefox
 lscr.io/linuxserver/chromium
