@@ -1,12 +1,12 @@
 #gdy666/lucky
 #wiznote/wizserver
-vaultwarden/server
+vaultwarden/server vaultwarden-server
 
 # 重名的需要两个一起，要不会覆盖
 #xhofe/alist
 #xiaoyaliu/alist
 # firefox为jlesage/firefox
-jlesage/firefox
+#jlesage/firefox
 #lscr.io/linuxserver/firefox
 
 #frooodle/s-pdf
