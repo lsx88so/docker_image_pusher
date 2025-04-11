@@ -1,6 +1,7 @@
+xhongc/music_tag_web
 #gdy666/lucky
 #wiznote/wizserver
-vaultwarden/server vaultwarden_server
+#vaultwarden/server vaultwarden_server
 
 # 重名的需要两个一起，要不会覆盖
 #xhofe/alist
@@ -9,8 +10,8 @@ vaultwarden/server vaultwarden_server
 #jlesage/firefox
 #lscr.io/linuxserver/firefox
 
-frooodle/s-pdf
-corentinth/it-tools
+#frooodle/s-pdf
+#corentinth/it-tools
 #b3log/siyuan
 
 #lscr.io/linuxserver/chromium
