@@ -2,6 +2,7 @@
 #gdy666/lucky
 #wiznote/wizserver
 #vaultwarden/server vaultwarden_server
+ghcr.io/seriousm4x/upsnap seriousm4x_upsnap
 
 # 重名的需要两个一起，要不会覆盖
 #xhofe/alist
@@ -10,8 +11,8 @@
 #jlesage/firefox
 #lscr.io/linuxserver/firefox
 
-frooodle/s-pdf
-corentinth/it-tools
+#frooodle/s-pdf
+#corentinth/it-tools
 #b3log/siyuan
 
 #lscr.io/linuxserver/chromium
