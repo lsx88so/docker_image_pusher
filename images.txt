@@ -1,8 +1,8 @@
 #xhongc/music_tag_web
-#gdy666/lucky
+gdy666/lucky
 #wiznote/wizserver
 #vaultwarden/server vaultwarden_server
-ghcr.io/seriousm4x/upsnap seriousm4x_upsnap
+#ghcr.io/seriousm4x/upsnap seriousm4x_upsnap
 
 # 重名的需要两个一起，要不会覆盖
 #xhofe/alist
