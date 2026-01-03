@@ -4,9 +4,11 @@ wiznote/wizserver
 vaultwarden/server vaultwarden_server
 ghcr.io/seriousm4x/upsnap seriousm4x_upsnap
 
-luchenqun/mybookmark
-sissbruecker/linkding
-sissbruecker/linkding:latest-plus
+lejianwen/rustdesk-server-s6
+
+#luchenqun/mybookmark
+#sissbruecker/linkding
+#sissbruecker/linkding:latest-plus
 # 重名的需要两个一起，要不会覆盖
 #xhofe/alist
 #xiaoyaliu/alist
