@@ -1,9 +1,9 @@
-xhongc/music_tag_web
-gdy666/lucky
-wiznote/wizserver
-vaultwarden/server vaultwarden_server
-ghcr.io/seriousm4x/upsnap seriousm4x_upsnap
-lejianwen/rustdesk-server-s6
+#xhongc/music_tag_web
+#gdy666/lucky
+#wiznote/wizserver
+#vaultwarden/server vaultwarden_server
+#ghcr.io/seriousm4x/upsnap seriousm4x_upsnap
+#lejianwen/rustdesk-server-s6
 
 #luchenqun/mybookmark
 #sissbruecker/linkding
@@ -15,9 +15,9 @@ lejianwen/rustdesk-server-s6
 #jlesage/firefox
 #lscr.io/linuxserver/firefox
 
-frooodle/s-pdf
-corentinth/it-tools
-b3log/siyuan
+#frooodle/s-pdf
+#corentinth/it-tools
+#b3log/siyuan
 
 #lscr.io/linuxserver/chromium
 #lscr.io/linuxserver/msedge
@@ -28,7 +28,7 @@ b3log/siyuan
 #elasticsearch:8.15.0
 #elasticsearch:6.8.23
 #elasticsearch:7.17.23
-neosmemo/memos
+neosmemo/memos:stable
 jasminexzzz/blossom
 #mysql:8.0.31
 joplin/server
