@@ -3,7 +3,6 @@ gdy666/lucky
 wiznote/wizserver
 vaultwarden/server vaultwarden_server
 ghcr.io/seriousm4x/upsnap seriousm4x_upsnap
-
 lejianwen/rustdesk-server-s6
 
 #luchenqun/mybookmark
