@@ -8,6 +8,8 @@ jumpserver/jms_all
 
 #lejianwen/rustdesk-server-s6
 
+ghcr.io/panda-995/gift-book
+
 #luchenqun/mybookmark
 #sissbruecker/linkding
 #sissbruecker/linkding:latest-plus
