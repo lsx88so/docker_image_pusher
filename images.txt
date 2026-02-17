@@ -1,5 +1,5 @@
 #gdy666/lucky
-gdy666/lucky:v2
+gdy666/lucky:v2 lucky_v2
 wiznote/wizserver
 vaultwarden/server vaultwarden_server
 ghcr.io/seriousm4x/upsnap seriousm4x_upsnap
