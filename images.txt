@@ -1,8 +1,11 @@
-#xhongc/music_tag_web
-#gdy666/lucky
-#wiznote/wizserver
-#vaultwarden/server vaultwarden_server
-#ghcr.io/seriousm4x/upsnap seriousm4x_upsnap
+gdy666/lucky
+wiznote/wizserver
+vaultwarden/server vaultwarden_server
+ghcr.io/seriousm4x/upsnap seriousm4x_upsnap
+xhongc/music_tag_web
+
+jumpserver/jms_all
+
 #lejianwen/rustdesk-server-s6
 
 #luchenqun/mybookmark
@@ -28,24 +31,24 @@
 #elasticsearch:8.15.0
 #elasticsearch:6.8.23
 #elasticsearch:7.17.23
-neosmemo/memos:stable
-jasminexzzz/blossom
+#neosmemo/memos:stable
+#jasminexzzz/blossom
 #mysql:8.0.31
-joplin/server
+#joplin/server
 #postgres:15-alpine
 #ghcr.io/requarks/wiki:2
 #axboy/leanote
-nriver/trilium-cn
+#nriver/trilium-cn
 #dbeaver/cloudbeaver-ee
 #dbeaver/cloudbeaver-aws
-dbeaver/cloudbeaver
+#dbeaver/cloudbeaver
 #mysql:5.7
 #mariadb
 #cgycms/websql
 #nginx
 #docker.io/songxwn/netbox-cn-docker:4.0.3-2.9.9
-phpipam/phpipam-www
-phpipam/phpipam-cron
+#phpipam/phpipam-www
+#phpipam/phpipam-cron
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
