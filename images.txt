@@ -1,15 +1,18 @@
+yilan666/booknav-nav
+qdrant/qdrant
+
 #gdy666/lucky
 #gdy666/lucky:v2 lucky_v2
-wiznote/wizserver
-vaultwarden/server vaultwarden_server
-ghcr.io/seriousm4x/upsnap seriousm4x_upsnap
-xhongc/music_tag_web
+#wiznote/wizserver
+#vaultwarden/server vaultwarden_server
+#ghcr.io/seriousm4x/upsnap seriousm4x_upsnap
+#xhongc/music_tag_web
 
-jumpserver/jms_all
+#jumpserver/jms_all
 
 #lejianwen/rustdesk-server-s6
 
-ghcr.io/panda-995/gift-book
+#ghcr.io/panda-995/gift-book
 
 #luchenqun/mybookmark
 #sissbruecker/linkding
